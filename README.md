@@ -1,4 +1,4 @@
-##Reference
+## References
 
 Data wrangling tidy data - pandas. (n.d.). https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf 
 
